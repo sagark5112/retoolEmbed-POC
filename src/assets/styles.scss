@@ -1,0 +1,14 @@
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+
+
+.loader-overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: #00000045;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
